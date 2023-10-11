@@ -1,13 +1,13 @@
-package com.d4rkr0n1n.springbootmicroservicesproject;
+package com.d4rkr0n1n.client;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootMicroservicesProjectApplication {
+public class ClientApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootMicroservicesProjectApplication.class, args);
+		SpringApplication.run(ClientApplication.class, args);
 	}
 
 }

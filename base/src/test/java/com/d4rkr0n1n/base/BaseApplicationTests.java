@@ -1,10 +1,10 @@
-package com.d4rkr0n1n.springbootmicroservicesproject;
+package com.d4rkr0n1n.base;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootMicroservicesProjectApplicationTests {
+class BaseApplicationTests {
 
 	@Test
 	void contextLoads() {

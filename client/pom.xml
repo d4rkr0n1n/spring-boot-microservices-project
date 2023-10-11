@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.d4rkr0n1n</groupId>
-	<artifactId>spring-boot-microservices-project</artifactId>
+	<artifactId>client</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-microservices-project</name>
+	<name>client</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>21</java.version>
@@ -19,7 +19,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web</artifactId>
+			<artifactId>spring-boot-starter</artifactId>
 		</dependency>
 
 		<dependency>
